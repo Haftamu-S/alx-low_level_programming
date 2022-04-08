@@ -1,1 +1,1 @@
-My 1st C programming readme
+C - Variables, if, else, while readme

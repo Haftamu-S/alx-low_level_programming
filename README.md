@@ -1,1 +1,1 @@
-C - Variables, if, else, while readme
+C - programming in alx

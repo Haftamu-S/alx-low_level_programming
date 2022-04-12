@@ -1,19 +1,23 @@
 #include "main.h"
+
+
 /**
- * main - Print "main" followed by a new line.
- * Description: You are not allowed to include standard libraries.
- * Return: 0
+ * main - Entry point
+ *
+ * Return: nothing, return void
  */
+
 int main(void)
 {
 _putchar('_');
 _putchar('p');
-_putchar('w');
+_putchar('u');
 _putchar('t');
 _putchar('c');
 _putchar('h');
 _putchar('a');
 _putchar('r');
-_putchar('/n');
-return(0);
+_putchar('\n');
+
+return (0);
 }

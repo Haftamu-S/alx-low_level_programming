@@ -27,5 +27,3 @@ int i, j;
 	printf("%lu\n", mul);
 return (0);
 }
-© 2022 GitHub, Inc.
-Terms
